@@ -5,6 +5,14 @@
 
 ---
 
+### [takeover](https://github.com/Nakano-official/takeover) — 大学の障がい学生支援室の業務システム
+
+シフトに欠員が出たら候補者を自動抽出し、Google Chat で代行を依頼、
+最初に承諾した人へ先着で確定するところまでを自動化しました。
+要件ヒアリングから設計・実装まで担当。個人情報は学内 Google Workspace 内で完結させています。
+
+Google Apps Script / 約7,100行
+
 ### HATOBA — フロントエンド担当
 
 賞味期限間近の食材を使って、スーパーのイートインを大学生向けの「夕食食堂」に変える提案です。
@@ -16,14 +24,6 @@
 6人チームでの開発で、フロントエンドを担当しました。
 
 Next.js / TypeScript / Gemini API ・ [リポジトリ](https://github.com/shimizu-kiichi/HATOBA)
-
-### [takeover](https://github.com/Nakano-official/takeover) — 大学の障がい学生支援室の業務システム
-
-シフトに欠員が出たら候補者を自動抽出し、Google Chat で代行を依頼、
-最初に承諾した人へ先着で確定するところまでを自動化しました。
-要件ヒアリングから設計・実装まで担当。個人情報は学内 Google Workspace 内で完結させています。
-
-Google Apps Script / 約7,100行
 
 ### [NN-](https://github.com/Nakano-official/NN-) — ゼロからのニューラルネットワーク
 
