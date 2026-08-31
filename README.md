@@ -10,7 +10,7 @@
 龍谷大学スマートライフハッカソン（2026年6〜7月）で **2位**。
 3人チームでの開発で、フロントエンドを担当しました。
 
-TypeScript / Vercel ・ [デモ](https://hatoba.vercel.app) ・ [リポジトリ](https://github.com/shimizu-kiichi/HATOBA)
+TypeScript / Vercel ・ [リポジトリ](https://github.com/shimizu-kiichi/HATOBA)
 
 ### [takeover](https://github.com/Nakano-official/takeover) — 大学の障がい学生支援室の業務システム
 
