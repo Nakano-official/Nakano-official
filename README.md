@@ -25,6 +25,18 @@ Google Apps Script / 約7,100行
 
 Next.js / TypeScript / Gemini API ・ [リポジトリ](https://github.com/shimizu-kiichi/HATOBA)
 
+### [Loop-Engine](https://github.com/Nakano-official/Loop-Engine) — AI に実装を任せるループの実行基盤
+
+仕様と受け入れ条件を作る側、関門を機械的に適用する側、隔離環境で実装する側を分離し、
+「テストが通りました」という AI の自己申告に頼らずに開発ループを回すための基盤です。
+実装前にテストが落ちること（Red）を確認し、実装中はテストを凍結して書き換えを封じ、
+権限は信頼ではなく OS のユーザー分離で担保しています。
+
+**要件6行から11ステップを人間の介在ゼロで通し切った実行**があります（全ステップ1回の試行で緑・48件パス）。
+検証手段が Python + pytest に結合しているため、他言語への一般化はこれからです。
+
+Python / WSL2 ・ ランナー本体は標準ライブラリのみ約2,300行
+
 ### [NN-](https://github.com/Nakano-official/NN-) — ゼロからのニューラルネットワーク
 
 TensorFlow も NumPy 相当のライブラリも使わず、行列積・誤差逆伝播・勾配降下法まで
