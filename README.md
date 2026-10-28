@@ -28,12 +28,12 @@ Python / WSL2
 
 Python（FastAPI）/ Next.js / vLLM ・ 担当は `curricula/` のデータとスキーマ
 
-### HATOBA — ハッカソン2位・フロントエンド担当
+### [HATOBA](https://github.com/shimizu-kiichi/HATOBA) — ハッカソン2位・フロントエンド担当
 
 値引き食材から AI がメニューを提案し、スーパーのイートインを大学生向けの夕食食堂にする提案です。
 龍谷大学スマートライフハッカソン（平和堂 × ソフトバンク・2026年）で **2位**。6人チーム。
 
-Next.js / TypeScript / Gemini API ・ [リポジトリ](https://github.com/shimizu-kiichi/HATOBA)
+Next.js / TypeScript / Gemini API
 
 ### そのほか
 
